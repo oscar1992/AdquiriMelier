@@ -506,6 +506,7 @@ ModelImporter:
     100996: VidBa_o
     100998: VidBa_o_001
     101000: VidBa_o_002
+    101002: Teecho
     400000: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5814306_
     400002: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5816181_
     400004: Concrete_Rectangular_6__Columna_Concreto_0_50x1_35__5814284_
@@ -1007,6 +1008,7 @@ ModelImporter:
     400996: VidBa_o
     400998: VidBa_o_001
     401000: VidBa_o_002
+    401002: Teecho
     2300000: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5814306_
     2300002: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5816181_
     2300004: Concrete_Rectangular_6__Columna_Concreto_0_50x1_35__5814284_
@@ -1506,6 +1508,7 @@ ModelImporter:
     2300992: VidBa_o
     2300994: VidBa_o_001
     2300996: VidBa_o_002
+    2300998: Teecho
     3300000: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5814306_
     3300002: Concrete_Rectangular_6__Columna_Concreto_0_40x5_30__5816181_
     3300004: Concrete_Rectangular_6__Columna_Concreto_0_50x1_35__5814284_
@@ -2005,6 +2008,7 @@ ModelImporter:
     3300992: VidBa_o
     3300994: VidBa_o_001
     3300996: VidBa_o_002
+    3300998: Teecho
     4300000: Techo_de_compuesto_cielo_planta__5834075__007
     4300002: Suelo_6__Losa_Aerea_Aligerada__5571316__003
     4300004: Techo_de_compuesto_cielo_planta__5834075__001
@@ -2504,6 +2508,7 @@ ModelImporter:
     4300992: Espejo_001
     4300994: Espejo_002
     4300996: Espejo
+    4300998: Teecho
     7400000: Default Take
     9500000: //RootNode
   materials:
